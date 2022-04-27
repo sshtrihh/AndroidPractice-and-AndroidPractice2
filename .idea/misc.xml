@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/dialog/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/intentfilter_main/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/multiactivity/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/multiactivity/src/main/res/layout/activity_main3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/multiactivity/src/main/res/layout/activity_second2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/multiactivity/src/main/res/layout/basic_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/multiactivity/src/main/res/layout/content_second2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/multiactivity/src/main/res/layout/fragment_first2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/multiactivity/src/main/res/layout/fragment_second2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/notificationapp/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout-land/activity_second.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout-land/layout_task_5_3.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/activity_button.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/activity_secondd.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/layout_5_3.xml" value="0.203125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/layout_task_5_3.xml" value="0.203125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/layout_task_6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/linear_layout.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/relative_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practic1/src/main/res/layout/table_layout.xml" value="0.15" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practice2/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practice2/src/main/res/layout/basic_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication3/practice2/src/main/res/layout/multi_activity.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
